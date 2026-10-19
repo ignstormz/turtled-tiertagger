@@ -8,7 +8,7 @@ The upstream UI, nametag, player-list, player-search, player-profile, configurat
 
 ## TurtleTiers integration
 
-- Data: `https://turtletiers-api.onrender.com/api/players` (JSON with `players[]`, `uuid`, `name`, `rankings`, `overallElo`).
+- Data: `*WIP*` (JSON with `players[]`, `uuid`, `name`, `rankings`, `overallElo`).
 - Website: *WIP*
 - Modes: Vanilla, UHC, Pot, Neth OP, SMP, Sword, Axe, Mace, Spear Mace, Cart, Creeper, Diamond SMP.
 - Supports **all 15 tiers**: HT1/MT1/LT1 through HT5/MT5/LT5. Highest-tier fallback respects H > M > L within each number.
