@@ -33,6 +33,6 @@ This source package has **not been compiled or in-game tested** in the current e
 ## Notes
 
 - The previous original TierTagger MCTiers/SubTiers tierlist artwork is **excluded** from this fork, in line with the upstream project notice that those icons were licensed only for the original mod.
-- The TurtleTiers icons are sourced from the site's public `KIT_ICONS` table. Confirm redistribution rights for the Discord-hosted emoji assets before public release.
+- The TurtleTiers icons are sourced from the site's public `KIT_ICONS` table. Confirm redistribution rights for the Custom emoji assets before public release.
 - The original mod's Modrinth update prompt was removed: it would otherwise point users to a different mod build.
 - Mod id remains `tier-tagger` to preserve upstream integration and settings internals. The archive, display name, and target API identify this as a TurtleTiers fork.
